@@ -40,7 +40,7 @@ DengueGuard is a dynamic web application developed using JSP, Servlets, JDBC, My
    
 ## Contributing
 
-We welcome contributions and feedback. If you find issues or have suggestions for improvement, please [open an issue](https://github.com/ShivaniSuresh1/DengueGuard-Dengue-Prevention-Website/issues) or [submit a pull request](https://github.com/ShivaniSuresh1/DengueGuard-Dengue-Prevention-Website/pulls).
+Contributions and feedback are welcomed. If you find issues or have suggestions for improvement, please [open an issue](https://github.com/ShivaniSuresh1/DengueGuard-Dengue-Prevention-Website/issues) or [submit a pull request](https://github.com/ShivaniSuresh1/DengueGuard-Dengue-Prevention-Website/pulls).
 
 ## License
 
