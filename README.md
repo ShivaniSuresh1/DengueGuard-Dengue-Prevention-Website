@@ -37,6 +37,7 @@ DengueGuard is a dynamic web application developed using JSP, Servlets, JDBC, My
    git clone https://github.com/ShivaniSuresh1/dengueguard-dengue-prevention-website.git
 2. Deploy the application on your preferred Java Servlet container (e.g., Apache Tomcat).
 3. Run home.jsp.
+4. Preferrably use Eclipse IDE.
    
 ## Contributing
 
